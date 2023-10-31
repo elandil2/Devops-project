@@ -1,4 +1,4 @@
-# Project Name
+# Vprofile-vagrant-vms-local
 
 ## Description
 
@@ -52,8 +52,3 @@ Memcache (mc01): http://192.168.56.14
 MariaDB (db01): You can access it remotely after the script configuration.
 License
 This project is open-source and licensed under License Name, if applicable.
-
-### Acknowledgments
-Mention any sources, libraries, or individuals who contributed to this project.
-### References
-Include any relevant references or resources that users might find helpful.
