@@ -22,7 +22,7 @@ Before getting started, ensure you have the following software installed on your
 3. Run the following command to start the VMs:
 
 ```bash
->vagrant up
+vagrant up
 ### Backend Configuration
 The backend.sh script performs the following actions:
 
